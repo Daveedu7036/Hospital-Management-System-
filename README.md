@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏥 Smart Hospital Management & Patient Care Platform
 
 > A production-grade, multi-role Hospital Management System built with Java 21, Spring Boot 3.3, Spring Security, JWT, PostgreSQL, React, Vite, and Tailwind CSS. Designed for B.Tech final-year project demonstration and real-world deployment readiness.
@@ -85,3 +86,6 @@ npm run dev
 - 🗄️ [Database Schema & ER Design](docs/database-design.md)
 - 🌐 [REST API Specification](docs/api-documentation.md)
 - 🎓 [Faculty Demonstration Flow](docs/demo-flow.md)
+=======
+# Hospital-Management-System-
+>>>>>>> 5379cb8a7b8722d766fc384375ce779f9b5943fd
